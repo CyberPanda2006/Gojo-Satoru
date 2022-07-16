@@ -20,13 +20,8 @@ global.APIKeys = {
 
 //customize settings\\
 global.owner = ['94782892785']
-global.owner = ['94782892785']
-global.owner = ['94782892785']
-global.premium = ['global.owner = ['94782892785']
-']
-global.owner = ['94782892785']
-global.ownernomer = 'global.owner = ['94782892785']
-'
+global.premium = ['94782892785']
+global.ownernomer = '94782892785'
 global.ownername = '🐦Star Boy Nexus'
 global.botname = 'Gojo-Satoru'
 global.footer = '©NexusNwInc.'
@@ -40,6 +35,7 @@ global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
+
     success: 'Done ✓',
     admin: 'This Feature Is Only For Admin!',
     botAdmin: 'Bot Must Be Admin First!',
